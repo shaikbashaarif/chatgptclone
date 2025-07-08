@@ -1,0 +1,11 @@
+# Ignore virtual environment
+chatgptclone/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/
